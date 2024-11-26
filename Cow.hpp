@@ -7,5 +7,6 @@ class Cow{
   public:
     Cow (std::string input) {
       this->name = input;
+    }
 };
 #endif
